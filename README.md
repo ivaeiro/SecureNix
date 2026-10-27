@@ -31,7 +31,7 @@ Support for specific Linux distributions will be documented as the project devel
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/securenix.git
+git clone https://github.com/ivaeiro/securenix.git
 cd securenix
 ```
 
